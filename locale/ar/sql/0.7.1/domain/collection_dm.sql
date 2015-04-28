@@ -1,0 +1,12 @@
+insert into %prfx%collection_dm values (null,'Adult Fiction','N',21,0.05);
+insert into %prfx%collection_dm values (null,'Adult Nonfiction','Y',21,0.05);
+insert into %prfx%collection_dm values (null,'شرائط','N',7,0.05);
+insert into %prfx%collection_dm values (null,'أقراص مضغوطة','N',7,0.15);
+insert into %prfx%collection_dm values (null,'برنامج كمبيوتر','N',7,0.15);
+insert into %prfx%collection_dm values (null,'قارئ عادي','N',21,0.05);
+insert into %prfx%collection_dm values (null,'Juvenile Fiction','N',21,0.05);
+insert into %prfx%collection_dm values (null,'Juvenile Nonfiction','N',21,0.05);
+insert into %prfx%collection_dm values (null,'كتب جديدة','N',14,0.10);
+insert into %prfx%collection_dm values (null,'درويات','N',14,0.05);
+insert into %prfx%collection_dm values (null,'مراجع','N',0,0.00);
+insert into %prfx%collection_dm values (null,'افلام','N',3,1.00);
