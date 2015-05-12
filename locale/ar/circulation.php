@@ -47,7 +47,7 @@ $trans["mbrDupBarcode"]           = "\$text = 'Barcode number, %barcode%, is cur
 #*  Translation text for page index.php
 #****************************************************************************
 $trans["indexHeading"]            = "\$text='الإعارة';";
-$trans["indexCardHdr"]            = "\$text='إبحث عن المشترك برقم البطاقة:';";
+$trans["indexCardHdr"]            = "\$text='إبحث عن المستفيد برقم البطاقة:';";
 $trans["indexCard"]               = "\$text='رقم البطاقة:';";
 $trans["indexSearch"]             = "\$text='إبحث';";
 $trans["indexNameHdr"]            = "\$text='بحث بالمستفيد أو بالإسم الأخير:';";

@@ -83,7 +83,7 @@ $trans["biblioNewSuccess"]         = "\$text = 'تم إنشاء البيبليو
 #****************************************************************************
 #*  Translation text for page biblio_edit.php
 #****************************************************************************
-$trans["biblioEditSuccess"]        = "\$text = 'Bibliography successfully updated.';";
+$trans["biblioEditSuccess"]        = "\$text = 'تم إنشاء النسخة بنجاح.';";
 
 #****************************************************************************
 #*  Translation text for page biblio_copy_new_form.php and biblio_copy_edit_form.php

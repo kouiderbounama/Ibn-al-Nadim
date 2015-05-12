@@ -56,7 +56,7 @@ $trans["indexAdmin"]         = "\$text='إدارة';";
 $trans["indexAdminDesc1"]    = "\$text='إستخدم هذا اللسان لإدارة الطاقم والسجلات الإدارية.';";
 $trans["indexAdminDesc2"]    = "\$text='إدارة الطاقم (إضافة، تعديل كلمات مرور، حذف))';";
 $trans["indexAdminDesc3"]    = "\$text='الإعدادات العامّة للمكتبة';";
-$trans["indexAdminDesc5"]    = "\$text='Library material type list';";
+$trans["indexAdminDesc5"]    = "\$text='قائمة أنواع مواد المكتبة';";
 $trans["indexAdminDesc4"]    = "\$text='قائمة المجموعات في المكتبة';";
 $trans["indexAdminDesc6"]    = "\$text='محرر تيمة المكتبة';";
 $trans["indexReports"]       = "\$text='تقارير';";

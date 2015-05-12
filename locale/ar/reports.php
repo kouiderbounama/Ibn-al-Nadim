@@ -102,7 +102,15 @@ $trans["reportCriteriaOutputCSV"]  = "\$text = 'CSV';";
 $trans["runReportReturnLink1"]     = "\$text = 'report selection criteria';";
 $trans["runReportReturnLink2"]     = "\$text = 'قائمة التقارير';";
 $trans["runReportTotal"]           = "\$text = 'Total Rows:';";
-
+$trans["Result Pages: "]           = "\$text = 'Ergebnis-Seiten: ';";
+$trans["&laquo;Prev"]              = "\$text = '&laquo;Zurück';";
+$trans["Next&raquo;"]              = "\$text = 'Nächster&raquo;';";
+$trans["&laquo;First"]             = "\$text = '&laquo;Anfang';";
+$trans["Last&raquo;"]              = "\$text = 'Ende&raquo;';";
+$trans["No results found."]        = "\$text = 'لا توجد نتائج.';";
+$trans["Report Results:"]          = "\$text = 'نتائج التقرير:';";
+$trans["results found."]           = "\$text = 'نتائج وجدت.';";
+$trans["Print list"]               = "\$text = 'طباعة القائمة';";
 #****************************************************************************
 #*  Translation text for page display_labels.php
 #****************************************************************************
@@ -113,7 +121,7 @@ $trans["displayLabelsCannotRead"]  = "\$text = 'Cannot read label file: %fileNam
 #****************************************************************************
 #*  Translation text for page noauth.php
 #****************************************************************************
-$trans["noauthMsg"]                = "\$text = 'You are not authorized to use the Reports tab.';";
+$trans["noauthMsg"]                = "\$text = 'لست مصرح له لاستخدام تبويب التقارير.';";
 
 #****************************************************************************
 #*  Report Titles
@@ -129,13 +137,13 @@ $trans["balanceDueList"]           = "\$text = 'Balance Due Member List';";
 #****************************************************************************
 #*  Report Titles
 #****************************************************************************
-$trans["reportHolds"]              = "\$text = 'Vorbestellungen mit entsprechenden Kontaktdaten zu den Benutzern';";
-$trans["reportCheckouts"]          = "\$text = 'Liste der ausgeliehenen Medien';";
+$trans["reportHolds"]              = "\$text = 'قائمة المواد المحجوزة';";
+$trans["reportCheckouts"]          = "\$text = 'قائمة المواد المستعارة';";
 $trans["Over Due Letters"]         = "\$text = 'Mahnungsbriefe';";
 $trans["reportLabels"]             = "\$text = 'Etikettendruckanfrage (von den Etiketten genutzt)';";
-$trans["popularBiblios"]           = "\$text = 'Beliebteste Medien';";
-$trans["overdueList"]              = "\$text = 'Benutzer mit überfälligen Medien';";
-$trans["balanceDueList"]           = "\$text = 'Benutzer mit offenen Beträgen';";
+$trans["popularBiblios"]           = "\$text = 'مواد لها شعبية';";
+$trans["overdueList"]              = "\$text = 'قائمة مستخدمين لديهم مواد متأخرة';";
+$trans["balanceDueList"]           = "\$text = 'قائمة الديون المستحقة';";
 $trans["Acquisition"]              = "\$text = 'تزويد';";
 $trans["Duplicate Titles"]         = "\$text = 'عنوان مكرر';";
 $trans["Periodic Checkout Count"]  = "\$text = 'عداد الدوريات المستعارة';";
@@ -150,7 +158,7 @@ $trans["Search for Game"]          = "\$text = 'Spielesuche';";
 $trans["Item Checkout History"]    = "\$text = 'تاريخ الإعارة';";
 $trans["Member Search"]            = "\$text = 'بحث مستفيد';";
 $trans["Most Popular Authors"]     = "\$text = 'مؤلفين لهم شعبية';";
-$trans["Labels"]                   = "\$text = 'Etiketten';";
+$trans["Labels"]                   = "\$text = 'ملصقات';";
 $trans["Call Num."]                = "\$text = 'رقم الطلب';";
 $trans["Barcode"]                  = "\$text = 'باركود';";
 $trans["Title"]                    = "\$text = 'عنوان';";
@@ -181,7 +189,7 @@ $trans["Before"]                   = "\$text = 'قبل';";
 $trans["Minimum balance"]          = "\$text = 'الرصيد المطلوب';";
 $trans["Remainder of title"]       = "\$text = 'عنوان فرعي';";
 $trans["Record created on"]        = "\$text = 'مادة أنشئت في';";
-$trans["Duplicate Criteria"]       = "\$text = 'Dublettenkriterium';";
+$trans["Duplicate Criteria"]       = "\$text = 'معيار مكرر';";
 $trans["Title, Title Remainder, Author"] = "\$text = 'عنوان, عنوان فرعيl, كاتب';";
 $trans["Title, Author"]            = "\$text = 'عنوان, كاتب';";
 $trans["Title, Title Remainder, Date Created"] = "\$text = 'عنوان, عنوان فرعي, تاريخ انشاء';";
@@ -196,11 +204,11 @@ $trans["Month"]                    = "\$text = 'شهر';";
 $trans["Quarter"]                  = "\$text = 'Quartal';";
 $trans["Due before"]               = "\$text = 'Zurück vor';";
 $trans["Out since"]                = "\$text = 'ausgeliehen seit';";
-$trans["Barcode Starts With"]      = "\$text = 'Barcode beginnt mit';";
+$trans["Barcode Starts With"]      = "\$text = 'باركود يبدأ بــ';";
 $trans["List of Barcodes (spaced)"] = "\$text = 'Liste der Barcodes (mit Leerzeichen)';";
 $trans["Newer than (Date or today)"] = "\$text = 'Neuer als (Datum oder \'today\')';";
-$trans["Placed before"]            = "\$text = 'reserviert vor';";
-$trans["Placed since"]             = "\$text = 'reserviert nach';";
+$trans["Placed before"]            = "\$text = 'محجوزة قبل';";
+$trans["Placed since"]             = "\$text = 'محجوزة منذ';";
 $trans["Call Number"]              = "\$text = 'رقم طلب';";
 $trans["Cards"]                    = "\$text = 'بطاقات';";
 $trans["ID Cards, self-laminating"] = "\$text = 'Visitenkarten, selbstlaminierend';";
@@ -211,9 +219,9 @@ $trans["Name Contains"]            = "\$text = 'Name enthält';";
 $trans["Address or Phone or Email Contains"] = "\$text = 'Adresse, Telefonnummer oder Mail enthält';";
 $trans["Newer than (Date or today)"] = "\$text = 'Neuer als (Datum oder today)';";
 $trans["Overdue Letters"]          = "\$text = 'Mahnungsbriefe';";
-$trans["As of"]                    = "\$text = 'Datum';";
+$trans["As of"]                    = "\$text = 'من تاريخ';";
 $trans["# Checkouts, Author"]      = "\$text = '# إعارة ،مؤلف';";
-$trans["Most Checkouts, Author"]   = "\$text = 'Meisten Ausleihen pro Author';";
+$trans["Most Checkouts, Author"]   = "\$text = 'الأكثر إعارة،مؤلف';";
 $trans["Group By"]                 = "\$text = 'مجموعة حسب';";
 $trans["Bibliography"]             = "\$text = 'وسائط';";
 $trans["Bibliography Copy"]        = "\$text = 'نسخة';";

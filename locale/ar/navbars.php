@@ -69,8 +69,8 @@ $trans["catalogSummary"]           = "\$text = 'ملخص الفهرس';";
 $trans["catalogSearch1"]           = "\$text = 'بحث';";
 $trans["catalogSearch2"]           = "\$text = 'بحث بيبليوغرافي';";
 $trans["catalogResults"]           = "\$text = 'نتائج البحث';";
-$trans["catalogBibInfo"]           = "\$text = 'Biblio Info';";
-$trans["catalogBibEdit"]           = "\$text = 'Edit-Basic';";
+$trans["catalogBibInfo"]           = "\$text = 'معلومات التسجيلة';";
+$trans["catalogBibEdit"]           = "\$text = 'تعديل التسجيلة الأصلية';";
 $trans["catalogBibEditMarc"]       = "\$text = 'تعديل مارك';";
 $trans["catalogBibMarcNewFld"]     = "\$text = 'حقل مارك جديد';";
 $trans["catalogBibMarcNewFldShrt"] = "\$text = 'تسجيلة مارك جديدة';";
@@ -79,7 +79,7 @@ $trans["catalogCopyNew"]           = "\$text = 'إضافة نسخة';";
 $trans["catalogCopyEdit"]          = "\$text = 'تعديل ';";
 $trans["catalogHolds"]             = "\$text = 'حجوزات مطلوبة';";
 $trans["catalogDelete"]            = "\$text = 'حذف';";
-$trans["catalogBibNewLike"]        = "\$text = 'New Like';";
+$trans["catalogBibNewLike"]        = "\$text = 'نسخة جديد';";
 $trans["catalogBibNew"]            = "\$text = 'تسجيلة جديدة';";
 $trans["Upload Marc Data"]         = "\$text = 'رفع بينات مارك';";
 
@@ -90,6 +90,9 @@ $trans["reportsSummary"]           = "\$text = 'ملخص التقارير';";
 $trans["reportsReportListLink"]    = "\$text = 'قائمة التقارير';";
 $trans["reportsLabelsLink"]        = "\$text = 'طباعة ملصقات';";
 $trans["reportsLettersLink"]        = "\$text = 'Print Letters';";
+$trans["Report Results"]           = "\$text = 'نتائج التقرير';";
+$trans["Report List"]              = "\$text = 'قائمة التقرير';";
+$trans["Report Criteria"]          = "\$text = 'معايير التقرير';";
 
 #****************************************************************************
 #*  Translation text for page opac.php

@@ -115,6 +115,7 @@ table.border {
   border-color: #000000;
   border-width: 1}
 th {
+  text-align: right;
   background-color: f82c57#;
   color: #000000;
   font-size: 13px;

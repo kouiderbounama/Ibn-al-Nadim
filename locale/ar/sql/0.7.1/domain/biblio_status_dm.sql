@@ -1,4 +1,4 @@
-insert into %prfx%biblio_status_dm values ('in','إسترجاع','Y');
+insert into %prfx%biblio_status_dm values ('in','متاح','Y');
 insert into %prfx%biblio_status_dm values ('out','إعارة','N');
 insert into %prfx%biblio_status_dm values ('mnd','تالف','N');
 insert into %prfx%biblio_status_dm values ('dis','منطقة العرض','N');
